@@ -1,9 +1,9 @@
 # Site settings
-title: YIOUART
+title: Yi Ou Art
 email: ""
 description: ""
 url: "https://yiou-art.github.io"
-baseurl: "/yiou-art.github.io"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
